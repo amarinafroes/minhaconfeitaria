@@ -1,0 +1,118 @@
+body{
+    margin: 0 10% 0 10%;
+    
+}
+.logodiv{
+    text-align: center;
+}
+.logo{
+    width: 255px; 
+    height: 90px;
+    
+}
+nav{
+    background: #ff8ad2;
+    text-align: center;
+    
+
+}
+nav li {
+    display: inline;
+    padding-right: 80px;
+}
+nav a {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none ;
+
+}
+.unificar{
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: stretch;
+    width: 786px;
+}
+h2 {
+    display: inline-block;
+    text-align: center;
+    
+
+}
+.primeiro{
+    margin:0  0 0 60px;
+    padding: 0 50px 0 0;
+    text-align: left;
+}
+.confeitaria{
+    width: 300px ;
+    margin: 0  0 0 100px;
+    border-radius: 20px;
+    
+    
+}
+.frase{
+    background-color: #ff8ad2; 
+    padding: 50px 80px 50px 80px;
+    margin-top:  30px;
+    text-align: center;
+}
+.produto{
+    width: -750px; 
+    height: 30px;
+ 
+}
+.produtos li{
+    display: inline-block;
+    margin: 0 100px 0 80px;
+   
+}
+.amostras{
+    width: 110px; 
+    height: 110px; 
+    border-radius: 55px;
+   
+}
+.rodape{
+    background-color: #ff8ad2; 
+    padding: 5px 0px 5px 0px;
+    margin-top: 20px;
+    margin-bottom:  100px;
+    text-align: center;
+}
+.teste{
+    display: flex;
+}
+.comprodutos{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: baseline;
+	align-content: stretch;
+    margin-top: 50px;
+}
+.iten{
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: flex-start;
+}
+itens h3{
+    margin-bottom: 0;
+}
+.iten p{
+    padding-right: 20px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.frase{
+    text-align: center;
+}
